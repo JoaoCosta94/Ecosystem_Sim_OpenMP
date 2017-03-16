@@ -1,0 +1,13 @@
+# Visual studio files
+*.exe
+*.user
+.vs/Ecosystem_Simulation/v14/.suo
+Ecosystem_Simulation.VC.db
+Ecosystem_Simulation.VC.VC.opendb
+
+# Compilation files
+x64/*
+Debug/*
+
+# Test files
+*.txt
